@@ -1,1 +1,1 @@
-`Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn <https://realpython.com/courses/python-histograms/>`__
+Working materials for the online course `Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn <https://realpython.com/courses/python-histograms/>`__.
